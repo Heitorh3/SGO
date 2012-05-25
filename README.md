@@ -9,4 +9,5 @@ de fundação de obras.
 AUTHORS	Heitor Carvalho de Almeida Neto
 THANKS	Agradecimentos
 ChangeLog versão 1.0	
-COPYING
+
+COPYING Direito autoral, direitos autorais ou direitos de autor.
