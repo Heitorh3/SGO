@@ -3,7 +3,7 @@ SGO
 
 Sistema de Gerenciamento de Obras
 
-README  O intuito deste projeto é criar um sistema capaz de gerenicar o aluguel de equipamentos/maquinarios para realização
+O intuito deste projeto é criar um sistema capaz de gerenicar o aluguel de equipamentos/maquinarios utilizados para realização
 de fundação de obras.
 
 AUTHORS	Heitor Carvalho de Almeida Neto
